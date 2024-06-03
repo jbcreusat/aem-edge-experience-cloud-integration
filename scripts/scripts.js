@@ -1,12 +1,4 @@
 import {
-  initMartech,
-  updateUserConsent,
-  martechEager,
-  martechLazy,
-  martechDelayed,
-} from '../plugins/martech/src/index.js';
-
-import {
   sampleRUM,
   buildBlock,
   loadHeader,
